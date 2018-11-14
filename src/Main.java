@@ -66,7 +66,7 @@ public class Main {
                             tempArray = new String[]{invResults.getJSONObject(i).getString("DocumentNumber"), custResults.get("Invoice").toString()};
                             invoiceIds.add(tempArray); //fler kontroller innan detta görs? stäm av med dokument och malin
                             System.out.print("hej");
-
+//hejsan
 
                         }
                         else
