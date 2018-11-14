@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: node_modules/fortnox-react/src/utils/ConfirmDialog.jsx
+msgid "Avbryt"
+msgstr "Cancel"
+
+#: node_modules/fortnox-react/src/utils/ConfirmDialog.jsx
+msgid "Ok"
+msgstr "Ok"
+
+#: node_modules/fortnox-react/src/utils/DatePicker.jsx
+msgid "v"
+msgstr "w"
+
+#: node_modules/fortnox-react/src/utils/LocalStorageSync.jsx
+msgid "Det finns osparade förändringar. Vill du fortsätta arbeta med dessa?"
+msgstr ""
+"There are unsaved properties. Do you want to continue to work with these?"
+
+#: node_modules/fortnox-react/src/utils/LocalStorageSync.jsx
+msgid "Nej"
+msgstr "No"
+
+#: node_modules/fortnox-react/src/utils/LocalStorageSync.jsx
+msgid "Ja"
+msgstr "Yes"
+
+#: node_modules/fortnox-react/src/utils/RegisterDropDown.jsx
+msgid "Register är för närvarande inte tillgängliga. Försök igen senare."
+msgstr "Registers is currently not available. Try again later."
+
+#: node_modules/fortnox-react/src/utils/ReportsButton.jsx
+msgid "Rapporter är för närvarande inte tillgängliga. Försök igen senare."
+msgstr "Reports is currently not available. Try again later."
+
+#: node_modules/fortnox-react/src/utils/ReportsButton.jsx
+msgid "Rapporter"
+msgstr "Reports"
+
+#: src/views/index.jsx
+msgid "En lista på öl"
+msgstr "A list of beers"
+
+#: node_modules/fortnox-react/src/view/NotFound.jsx
+msgid "Kunde inte hitta vyn."
+msgstr "View not found."
+
+#: node_modules/fortnox-react/src/view/LeaveViewDialog.jsx
+msgid "Spara ändringar"
+msgstr "Save changes"
+
+#: node_modules/fortnox-react/src/view/LeaveViewDialog.jsx
+msgid "Du har osparade ändringar i vyn, vill du spara?"
+msgstr "ou have unsaved changes in the view, do you want to save?"

@@ -1,0 +1,32 @@
+{
+	"fileExtensions": [".less", ".css"],
+	"singleLinePerSelector": false,
+	"emptyRule": true,
+	"importantRule": false,
+	"decimalZero": "none",
+	"attributeQuotes": true,
+	"newlineAfterBlock": true,
+	"propertyOrdering": false,
+	"allowSingleLineRules": false,
+	"selectorNaming": {
+		"enabled": true,
+		"disallowUppercase": true,
+		"disallowUnderscore": true,
+		"disallowDash": false
+	},
+	"hexNotation": {
+		"severity": "error",
+		"style": "uppercase"
+	},
+	"qualifyingElement": {
+		"allowWithAttribute": true,
+		"allowWithClass": true
+	},
+	"zeroUnit": {
+		"style": "no_unit"
+	},
+	"spaceAfterPropertyColon": {
+		"enabled": true,
+		"style": "one_space"
+	}
+}
